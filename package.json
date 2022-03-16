@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Nikola Jacques"
+	"author": "Nikola Jacques",
+	"description": "A test package to complete FCC back end module"
 }
