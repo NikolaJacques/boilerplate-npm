@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Nikola Jacques",
-	"description": "A test package to complete FCC back end module"
+	"description": "A test package to complete FCC back end module",
+	"keywords": ["course", "web", "node"]	
 }
